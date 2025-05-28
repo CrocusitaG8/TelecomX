@@ -1,0 +1,24 @@
+# Entornos virtuales
+.env/
+.venv/
+env/
+venv/
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Archivos temporales
+.DS_Store
+*.log
+*.tmp
+
+# Exportaciones de notebooks
+*.nbconvert.ipynb
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Datos confidenciales (ajustar si se usan claves/credenciales locales)
+*.env
