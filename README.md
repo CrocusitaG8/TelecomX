@@ -3,8 +3,9 @@
 
 ## 📌 Propósito del Proyecto
 
-###Este proyecto analiza la evasión de clientes (*churn*) en la empresa de telecomunicaciones TelecomX.
-###El objetivo es identificar patrones de comportamiento y factores asociados a la pérdida de clientes, mediante visualizaciones estratégicas y una limpieza exhaustiva del dataset.
+Este proyecto analiza la evasión de clientes (*churn*) en la empresa de telecomunicaciones TelecomX.
+
+El objetivo es identificar patrones de comportamiento y factores asociados a la pérdida de clientes, mediante visualizaciones estratégicas y una limpieza exhaustiva del dataset.
 
 ## 📁 Estructura del Proyecto
 
