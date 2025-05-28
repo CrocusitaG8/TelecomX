@@ -22,14 +22,15 @@ Este proyecto analiza la evasión de clientes (*churn*) en la empresa TelecomX, 
 
 A continuación se presentan algunos de los gráficos más relevantes extraídos del análisis:
 
+### 📌 Proporción de evasión
+![Edad y evasión](grafico_evasion_pie.png)
+
 ### 📌 Evasión por tipo de contrato
 ![Evasión por contrato](grafico_evasion_contrato.png)
 
 ### 📌 Relación entre método de pago, tipo de contrato y evasión
 ![Método de pago](grafico_evasion_met_pago_contrato.png)
 
-### 📌 Proporción de evasión
-![Edad y evasión](grafico_evasion_pie.png)
 
 ## 📈 Hallazgos Principales
 
