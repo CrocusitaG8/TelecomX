@@ -8,10 +8,14 @@ Este proyecto analiza la evasión de clientes (*churn*) en la empresa TelecomX, 
 ## 📁 Estructura del Proyecto
 
 ```
-📦 TelecomX
- ┣ 📄 TelecomX_final.ipynb         # Notebook principal con análisis exploratorio e informe final
- ┣ 📄 README.md                    # Descripción del proyecto
- ┗ 📄 img/                         # Carpeta para gráficos exportados
+📦 TelecomX/
+ ┣ 📄 grafico_evasion_contrato.png
+ ┣ 📄 grafico_evasion_met_pago_contrato.png
+ ┣ 📄 grafico_evasion_pie.png
+ ┣ 📄 TelecomX_final.ipynb
+ ┣ 📄 README.md
+ ┗ 📄 requirements.txt
+
 ```
 
 ## 📊 Ejemplos de Gráficos Generados
